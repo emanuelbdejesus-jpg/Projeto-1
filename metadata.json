@@ -1,0 +1,5 @@
+{
+  "name": "DrillTrack - Gestão de Ferramental",
+  "description": "Sistema avançado para controle de estoque de ferramentas de perfuração (T45, T50, T51), rastreamento de retiradas e análise preditiva com Gemini.",
+  "requestFramePermissions": []
+}
